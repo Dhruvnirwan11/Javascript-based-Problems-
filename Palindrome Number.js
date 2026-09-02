@@ -1,6 +1,6 @@
 // Check if a number is a palindrome.?
 
-let original = 121;
+let original = 1221;
 let num = original;
 let digit
 let reversed=0

@@ -1,7 +1,7 @@
 // Check if a number is prime in range?
 
-let first = 30;
-let last = 100;
+let first = 300;
+let last = 1000;
 let prime_count = 0;
 let non_prime_count = 0;
 
